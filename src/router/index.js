@@ -7,9 +7,9 @@ const routes = [
     component: () => import('../views/index/index.vue')
   },
   {
-    path: '/list',
-    name: 'list',
-    component: () => import('../views/list/index.vue')
+    path: '/pngImgBorder',
+    name: 'pngImgBorder',
+    component: () => import('../views/pngImgBorder/index.vue')
   },
 ]
 

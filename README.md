@@ -1,4 +1,4 @@
-# web-tools
+# small-code
 
 ## Project setup
 ```
